@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# Module 4 Final Project: predicting Airbnb prices in London with machine learning and deep learning
+=======
+# Module 4 Final Project: predicting Airbnb prices in London with machine learning and deep learning
+>>>>>>> 2841a8f906752503339b09d51892c59cd40d0837
 
 ## Introduction and project aims
 
